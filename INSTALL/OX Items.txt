@@ -1,0 +1,82 @@
+items for ox inventory 
+
+	['fishingrod'] = {
+		label = 'Fishing Rod',
+		weight = 1,
+		stack = true,
+		close = true,
+		client = {
+			event = 'fishing:start'
+		}
+	},	
+
+
+        ['salmon'] = {
+             label = 'Australian Salmon',
+             weight = 15,
+        },
+
+        ['tailor'] = {
+             label = 'Tailor',
+             weight = 15,
+        },
+
+        ['flathead'] = {
+             label = 'Flathead',
+             weight = 15,
+        },
+
+        ['bream'] = {
+             label = 'Bream',
+             weight = 15,
+        },
+
+        ['whiting'] = {
+             label = 'Whiting',
+             weight = 15,
+        },
+
+        ['snapper'] = {
+             label = 'Snapper',
+             weight = 15,
+        },
+
+        ['mullet'] = {
+             label = 'Mullet',
+             weight = 15,
+        },
+
+        ['dhufish'] = {
+             label = 'Dhufish',
+             weight = 20,
+        },
+
+        ['herring'] = {
+             label = 'Herring',
+             weight = 10,
+        },
+
+        ['garfish'] = {
+             label = 'Garfish',
+             weight = 10,
+        },
+
+        ['greatwhiteshark'] = {
+               label = 'Great White Shark',
+               weight = 40,
+        },
+
+        ['whaleshark'] = {
+               label = 'Whale Shark',
+               weight = 50,
+        },
+
+	['fishbait'] = {
+		label = 'Fish Bait',
+		weight = 15,
+	},
+
+	['deepseabait'] = {
+		label = 'Deep Sea Fish Bait',
+		weight = 15,
+	},
