@@ -28,6 +28,9 @@ System Comes Default With:
 
 Positions are Pre Configured.
 
+# Dependencies
+- ox_lib
+- ox_inventory
 
 # Credits
 Slavic,
