@@ -17,7 +17,9 @@ server_scripts {
     'server.lua'
 }
 
-
+--- Dependencies
+--- Ox_Lib
+--- Ox_Inventory
 
 
 
